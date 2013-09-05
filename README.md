@@ -43,4 +43,4 @@ You can also add additional features to the game to differentiate it from others
  - Add Power-Ups for the player
 
   [0]: http://scirra.com "Construct 2 from Scirra"
-  [1]: http://github.com/wingamekits/shooter/screenshot.png
+  [1]: https://github.com/wingamekits/Shooter/blob/master/Screenshot.png
