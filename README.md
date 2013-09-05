@@ -2,7 +2,7 @@
 ##Date: 04/10/2013
 ##Version: v1.0.0
 ##Author(s): Michael Cummings
-##URL: http://michaelcummings.net/wingamekit_shooter
+##URL: http://michaelcummings.net/wingamekits_shooter
 
 ----------
 ###Description
@@ -43,4 +43,4 @@ You can also add additional features to the game to differentiate it from others
  - Add Power-Ups for the player
 
   [0]: http://scirra.com "Construct 2 from Scirra"
-  [1]: https://github.com/wingamekits/Shooter/blob/master/Screenshot.png
+  [1]: https://raw.github.com/wingamekits/Shooter/master/Screenshot.png
